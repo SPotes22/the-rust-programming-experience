@@ -1,0 +1,11 @@
+[package]
+name = "cli_calc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[dev-dependencies]   # <- solo se usa para bench
+criterion = "0.5"
+
